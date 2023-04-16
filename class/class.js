@@ -1,4 +1,4 @@
-// TASK 1:
+//----------------------TASK 1----------------
 
 class Rectangle {
     constructor(width, height) {
@@ -68,7 +68,7 @@ rec.draw("0");
 
 
 
-// TASK 2:
+// ----------------TASK 2----------------
 
 class Square extends Rectangle {
     constructor(side) {
